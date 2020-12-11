@@ -1,4 +1,6 @@
+print('vvedite a,b,c')
 a, b, c = int(input()), int(input()), int(input())
+print('vvedite d,e')
 d, e = int(input()), int(input())
 if b > c:
     (b, c) = (c, b)
